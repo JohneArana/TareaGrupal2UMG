@@ -1,2 +1,0 @@
-case|caso |mejorar 
-void|vacio |es que est avacio 
